@@ -1,0 +1,99 @@
+<html>  
+  <head>
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Quicksand" />
+    <style> 
+  
+      #mytitle {
+        font-family: 'Quicksand', 'sans-serif', 'serif';  
+        /*padding-left: 400px;*/
+        margin-top: 20px;
+        position:relative;
+        width:100%;
+        /*padding:20px;*/
+        height:80px;
+        line-height: 80px;
+        text-align:center;
+        
+      }
+      
+        #mytitle2 {
+        font-family: 'Quicksand', 'sans-serif', 'serif';  
+        height:50px;
+        position:relative;
+        width:100%;
+        text-align:center;
+        
+      }
+      
+      #mypara {
+        font-family: 'Quicksand', 'sans-serif', 'serif';  
+        padding-left: 10%;
+        padding-right: 10%;
+        height:100px;
+      }
+      
+      
+      
+      html, body {
+        height: 100%;
+        width: 100%;
+        background: linear-gradient(to bottom, 
+                    rgba(103,178,111,1) 0%, 
+                    rgba(76,162,205,1) 100%);
+        overflow: hidden;
+      }
+      
+      .triangle {
+        -webkit-clip-path: url(#cp);
+                clip-path: url(#cp);
+        width: 200px;
+        height: 200px;
+        background-size: cover;
+        background-blend-mode: screen;
+        position: absolute;
+        top: 80%;
+        left: 50%;
+      }
+      
+      .first {
+        background-color: #333;
+        background-image: url("https://45.media.tumblr.com/d6946dbae92220c65838e861a365affb/tumblr_mzs9uzNKDZ1qddrn0o1_500.gif");
+        -webkit-transform: translateX(-65%) translateY(-50%) rotate(60deg);
+                transform: translateX(-65%) translateY(-50%) rotate(60deg);
+      }
+      
+      a {
+        text-decoration: none;
+        color: black;
+      }
+      
+      a:hover {
+        color: yellow;
+      }
+      
+      
+      </style>
+  </head>
+  <body>
+    <h1 id="mytitle"> 
+    About Us </h1>
+    <h2 id="mytitle2" ><a href="/">Interactive News Map</a></h2>
+    <p id="mypara">
+     
+    This project was originally a data visualization of all the ITP students. 
+    Each circle represented how many people from ITP are from that specific Country. 
+    We took this idea and developed it further and decided that because of all the political madness that was going on in the USA during the elections period, no one paid much attention to all the news going on around the world.  Therefore, the idea is that it is important to always know what is going on outside your own little bubble. 
+    This map is used as a platform that allows you to watch the news (and other videos) by clicking on a specific Country. In the future we would like to make it 3D, and a worldwide platform where people can instantaneously upload their video and directly see it on the map.
+    </p>
+    
+    <svg width='0' height='0'>
+      <defs>
+        <clipPath id="cp" clipPathUnits="objectBoundingBox">
+          <path d="M0.500, 0.945 L0.994, 0.090 L0.006, 0.090 L0.500, 0.945 L0.500, 0.650 L0.262, 0.238 L0.738, 0.237 L0.500, 0.650z"></path>
+        </clipPath>
+      </defs>
+    </svg>
+    
+    <div class="triangle first"></div>
+  </body>
+</html>

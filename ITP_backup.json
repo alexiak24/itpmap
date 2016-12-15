@@ -1,0 +1,397 @@
+[
+  {
+    "country": "Germany",
+    "city": "Munich",
+    "latitude": "51.165691",
+     "longtitude": "10.451526",
+     "videos": "Germany.mp4"
+  },
+  {
+    "country": "Chile",
+    "city": "Santiago",
+    "latitude": "-35.675147",
+    "longtitude": "-71.542969",
+    "videos": "Mexico.mp4"
+
+  },
+  {
+    "country": "Mexico",
+    "city": "Mexico City",
+     "latitude":"23.634501",
+     "longtitude" :"-102.552784",
+     "videos": ["Mexico.mp4"]
+  },
+  {
+    "country": "Colombia",
+    "city": "Bogota",
+    "latitude": "4.570868",
+    "longtitude": "-74.297333"
+    },
+  {
+    "country": "USA",
+    "city": "Parlin",
+    "latitude": "39.999137",
+    "longtitude": "-100.189491"
+  },
+  {
+    "country": "India",
+    "city": "Chennai",
+    "latitude": "20.593684",
+    "longtitude": "78.96288"
+  },
+  {
+    "country": "South Korea",
+    "city": "Seoul",
+    "latitude": "36.210526",
+    "longtitude": "128.013698"
+  },
+  {
+    "country": "USA",
+    "city": "Holbrook",
+    "latitude": "39.999137",
+    "longtitude": "-100.189491"
+  },
+  {
+    "country": "Japan",
+    "city": "Yokohama",
+    "latitude": "36.204824",
+    "longtitude": "138.252924",
+    "videos": "Japan.mp4"
+
+  },
+  {
+    "country": "India",
+    "city": "Jodhpur",
+    "latitude": "20.593684",
+    "longtitude": "78.96288"
+  },
+  {
+    "country": "Israel",
+    "city": "Tel Aviv",
+    "latitude": "31.046051",
+    "longtitude": "34.851612",
+    "videos": "Israel.mp4"
+  },
+  {
+    "country": "India",
+    "city": "Mumbai",
+    "latitude": "20.593684",
+    "longtitude": "78.96288"
+  },
+  {
+    "country": "South Korea",
+    "city": "Seoul",
+    "latitude": "36.210526",
+    "longtitude": "128.013698"
+  },
+  {
+    "country": "South Korea",
+    "city": "Seoul",
+    "latitude": "36.210526",
+    "longtitude": "128.013698"
+  },
+  {
+    "country": "Thailand",
+    "city": "Bangkok",
+    "latitude": "15.870032",
+     "longtitude":"100.992541",
+     "videos": ["Thailand.mp4", "Thailand2.mp4"]
+  },
+  {
+    "country": "China",
+    "city": "Shanghai",
+    "latitude":"34.924817",
+    "longtitude":"104.412052"
+  },
+  {
+    "country": "South Korea",
+    "city": "Bun-dang",
+    "latitude": "36.210526",
+    "longtitude": "128.013698"
+  },
+  {
+    "country": "USA",
+    "city": "Chicago",
+     "latitude": "39.999137",
+    "longtitude": "-100.189491"
+  },
+  {
+    "country": "Canada",
+    "city": "Bracebridge",
+    "latitude": "56.130366",
+    "longtitude":"-106.346771",
+    "videos": "Canada.mp4"
+  },
+  {
+    "country": "South Korea",
+    "city": "Busan",
+    "latitude": "36.210526",
+    "longtitude": "128.013698"
+  },
+  {
+    "country": "Lithuania",
+    "city": "Vilnius",
+    "latitude": "55.169438 ",
+    "longtitude": "23.881275"
+
+  },
+  {
+    "country": "USA",
+    "city": "Atlanta",
+     "latitude": "39.999137",
+    "longtitude": "-100.189491"
+  },
+  {
+    "country": "Cyprus",
+    "city": "Nicosia",
+    "latitude": "35.126413",
+    "longtitude":"33.429859",
+    "videos": "Cyprus.mp4"
+  },
+  {
+    "country": "South Korea",
+    "city": "Seoul",
+    "latitude": "36.210526",
+    "longtitude": "128.013698"
+  },
+  {
+    "country": "Spain",
+    "city": "Barcelona",
+    "latitude": "40.416775",
+    "longtitude": "-3.703790"
+  },
+  {
+    "country": "China",
+    "city": "Hefei",
+    "latitude":"34.924817",
+    "longtitude":"104.412052"
+  },
+  {
+    "country": "Mexico",
+    "city": "Guadalajara",
+     "latitude":"23.634501",
+     "longtitude" :"-102.552784",
+     "videos": "Mexico.mp4"
+  },
+  {
+    "country": "Saudi Arabia",
+    "city": "Riyadh",
+    "latitude": "23.885942",
+    "longtitude": "45.079162"
+  },
+  {
+    "country": "South Korea",
+    "city": "Seoul",
+    "latitude": "36.210526",
+    "longtitude": "128.013698"
+  },
+  {
+    "country": "South Korea",
+    "city": "Seoul",
+    "latitude": "36.210526",
+    "longtitude": "128.013698"
+  },
+  {
+    "country": "Turkmenistan",
+    "city": "Ashgabat",
+     "latitude": "38.969719",
+    "longtitude": "59.556278"
+
+  },
+  {
+    "country": "USA",
+    "city": "New York",
+    "latitude": "39.999137",
+    "longtitude": "-100.189491"
+  },
+  {
+    "country": "China",
+    "city": "Shenzhen",
+    "latitude":"34.924817",
+    "longtitude":"104.412052"
+  },
+  {
+    "country": "India",
+    "city": "Pune",
+    "latitude": "20.593684",
+    "longtitude": "78.96288"
+  },
+  {
+    "country": "Thailand",
+    "city": "Bangkok",
+    "latitude": "15.870032",
+    "longtitude":"100.992541",
+    "videos": ["Thailand.mp4", "Thailand2.mp4"]
+  },
+  {
+    "country": "USA",
+    "city": "Bloomfield Hills",
+     "latitude": "39.999137",
+    "longtitude": "-100.189491"
+  },
+  {
+    "country": "China",
+    "city": "Changchun",
+    "latitude":"34.924817",
+    "longtitude":"104.412052"
+  },
+  {
+    "country": "South Korea",
+    "city": "Seoul",
+    "latitude": "36.210526",
+    "longtitude": "128.013698"
+  },
+  {
+    "country": "USA",
+    "city": "Half Moon Bay",
+     "latitude": "39.999137",
+    "longtitude": "-100.189491"
+  },
+  {
+    "country": "Canada",
+    "city": "Brampton",
+    "latitude": "56.130366",
+    "longtitude":"-106.346771",
+    "videos": "Canada.mp4"
+  },
+  {
+    "country": "USA",
+    "city": "New York",
+    "latitude": "39.999137",
+    "longtitude": "-100.189491"
+  },
+  {
+    "country": "USA",
+    "city": "Cincinnati",
+    "latitude": "39.999137",
+    "longtitude": "-100.189491"
+  },
+  {
+
+    "country": "China",
+    "city": "Chengdu",
+     "latitude":"34.924817",
+    "longtitude":"104.412052"
+  },
+  {
+    "country": "USA",
+    "city": "Brooklyn",
+    "latitude": "39.999137",
+    "longtitude": "-100.189491"
+  },
+  {
+    "country": "Lebanon",
+    "city": "Beirut",
+    "latitude": "33.854721",
+    "longtitude": "35.862285"
+
+  },
+  {
+    "country": "USA",
+    "city": "New York",
+     "latitude": "39.999137",
+    "longtitude": "-100.189491"
+  },
+  {
+    "country": "China",
+    "city": "Guiyang",
+    "latitude":"34.924817",
+    "longtitude":"104.412052"
+  },
+  {
+
+    "country": "China",
+    "city": "Beijing",
+    "latitude":"34.924817",
+    "longtitude":"104.412052"
+  },
+  {
+    "country": "Greece",
+    "city": "Athens",
+    "latitude": "39.074208 ",
+    "longtitude": "21.824312",
+    "videos": ["Greece.mp4", "Greece2.mp4", "Greece3.mp4" ]
+  },
+  {
+    "country": "Greece",
+    "city": "Athens",
+    "latitude": "39.074208 ",
+    "longtitude": "21.824312",
+    "videos": ["Greece.mp4", "Greece2.mp4", "Greece3.mp4" ]
+
+
+  },
+  {
+    "country": "Greece",
+    "city": "Athens",
+    "latitude": "39.074208 ",
+    "longtitude": "21.824312",
+    "videos": ["Greece.mp4", "Greece2.mp4", "Greece3.mp4" ]
+
+  },
+
+{
+    "country": "USA",
+    "city": "Los Angeles",
+     "latitude": "39.999137",
+    "longtitude": "-100.189491"
+
+  },
+
+  {
+    "country": "USA",
+    "city": "Denver",
+     "latitude": "39.999137",
+    "longtitude": "-100.189491"
+
+  },
+
+   {
+    "country": "USA",
+    "city": "New York City",
+     "latitude": "39.999137",
+    "longtitude": "-100.189491"
+
+  },
+
+  {
+    "country": "USA",
+    "city": "Menlo Park",
+     "latitude": "39.999137",
+    "longtitude": "-100.189491"
+
+  },
+
+    {
+    "country": "India",
+    "city": "Ahmedebab",
+    "latitude": "20.593684",
+    "longtitude": "78.96288"
+  },
+  {
+    "country": "USA",
+    "city": "Chicago",
+     "latitude": "39.999137",
+    "longtitude": "-100.189491"
+
+
+   },
+  {
+    "country": "Israel",
+    "city": "Tel Aviv",
+    "latitude": "31.046051",
+    "longtitude": "34.851612",
+    "videos": "Israel.mp4"
+  },
+
+
+  {
+    "country": "Israel",
+    "city": "Tel Aviv",
+    "latitude": "31.046051",
+    "longtitude": "34.851612",
+    "videos": "Israel.mp4"
+  }
+
+
+  ]
